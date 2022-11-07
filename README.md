@@ -1,0 +1,18 @@
+## j3y17lteser-user 9 PPR1.180610.011 J330FXWS3CTE2 release-keys
+- Manufacturer: samsung
+- Platform: 
+- Codename: j3y17lte
+- Brand: samsung
+- Flavor: j3y17lteser-user
+- Release Version: 9
+- Id: PPR1.180610.011
+- Incremental: J330FXWS3CTE2
+- Tags: release-keys
+- CPU Abilist: armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-GB
+- Screen Density: 320
+- Fingerprint: samsung/j3y17lteser/j3y17lte:9/PPR1.180610.011/J330FXWS3CTE2:user/release-keys
+- OTA version: 
+- Branch: j3y17lteser-user-9-PPR1.180610.011-J330FXWS3CTE2-release-keys
+- Repo: samsung/j3y17lte
